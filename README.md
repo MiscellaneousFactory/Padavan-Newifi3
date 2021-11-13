@@ -35,8 +35,7 @@ https://www.lanzouw.com/i6pguwe3eud
 
 主要特点如下：
 1.采用padavanonly源码的5.0.4.0无线驱动，支持kvr  
-2.添加了chongshengB源码的所有插件  
-1.采用padavanonly源码的5.0.4.0无线驱动，支持kvr 
+1.采用padavanonly源码的5.0.4.0无线驱动，支持kvr  
 2.添加了chongshengB源码的所有插件  
 3.其他部分等同于hanwckf的源码，有少量优化来自immortalwrt的padavan源码
   
