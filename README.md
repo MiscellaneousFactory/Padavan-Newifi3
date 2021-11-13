@@ -1,11 +1,13 @@
-# Padavan精简版固件，适合不爱折腾固件的用户
-固件默认wifi名称PDCN及PDCN_5G  
+# 感谢使用NEWIFI3精简版固件
+固件基于Padavan源码精简，适合不爱折腾固件的用户
+
+默认wifi名称PDCN及PDCN_5G  
 wifi密码1234567890  
 管理地址192.168.123.1  
 管理账号密码都是admin 
 ***
 
-NEWIFI3固件下载  
+固件下载  
 https://www.lanzouw.com/i6pguwe3eud
 
 - 20211111更新
@@ -20,7 +22,6 @@ https://www.lanzouw.com/i6pguwe3eud
 ```
 - 20211109更新
 >- 精简插件，仅保留路由器常用功能  
-（只精简了NEWIFI3的固件，其它版本固件请参考/trunk/configs/NEWIFI3.config中的插件选项）
 >- 优化科学上网插件中的DNS选项，加入对SmartDNS的支持
 >- 移除VPN界面选项
 >- 修复部分系统编译skipdbv2插件报错的问题
@@ -46,51 +47,6 @@ https://github.com/hanwckf/rt-n56u
 https://github.com/chongshengB/rt-n56u  
 https://github.com/padavanonly/rt-n56u  
 https://github.com/immortalwrt/padavan  
-
-- 已适配除官方适配外的以下机型
->- PSG1208
->- PSG1218
->- 5K-W20 (USB)
->- OYE-001 (USB)
->- NEWIFI-MINI (USB)
->- MI-MINI (USB)
->- MI-3 (USB)
->- MI-3C
->- MI-4
->- MI-R3G (USB)
->- MI-R4A
->- MI-R3P (USB)
->- HC5661A
->- HC5761A (USB)
->- HC5861B
->- 360P2 (USB)
->- MI-NANO
->- MZ-R13
->- MZ-R13P
->- RT-AC1200GU (USB)
->- XY-C1 (USB)
->- WR1200JS (USB)
->- NEWIFI3 (USB)
->- B70 (USB)
->- A3004NS (USB)
->- K2P
->- K2P-USB (USB)
->- JCG-836PRO (USB)
->- JCG-AC860M (USB)
->- DIR-882 (USB)
->- DIR-878
->- MR2600 (USB)
->- WDR7300
->- RM2100
->- CR660x (CR6606, CR6608, CR6609)
->- R2100
->- JCG-Y2 (USB)
->- E8820V2 (USB)
->- ZTE_E8820S (USB)
->- MSG1500 (USB)
->- R6220 (USB)
->- NETGEAR-CHJ (R6260, R6350, R6850, WAC124)
->- NETGEAR-BZV (R6800, R6700-v2, R7200, Nighthawk AC2400)
 
 ***
 
