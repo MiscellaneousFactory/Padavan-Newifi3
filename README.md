@@ -1,10 +1,11 @@
-# NEWIFI3精简版固件
-固件基于Padavan源码精简，适合不爱折腾固件的用户
+# Padavan-Newifi3精简版固件
+固件基于Padavan源码精简，适合不爱折腾固件的NEWIFI3路由器用户
 
 默认wifi名称PDCN及PDCN_5G  
 wifi密码1234567890  
 管理地址192.168.123.1  
-管理账号密码都是admin 
+管理账号admin
+管理密码admin 
 ***
 
 固件下载  
@@ -25,23 +26,19 @@ https://www.lanzouw.com/i6pguwe3eud
 >- 优化科学上网插件中的DNS选项，加入对SmartDNS的支持
 >- 移除VPN界面选项
 >- 修复部分系统编译skipdbv2插件报错的问题
+
 ***
 
-# Padavan-Minimal
-在原作者keke1023整合的固件版本上做了精简和DNS优化  
-https://github.com/keke1023/Padavan  
-
-
-
 # Padavan
-基于hanwckf,chongshengB以及padavanonly的源码整合而来，支持kvr  
-编译方法同其他Padavan源码，主要特点如下：  
+在原作者keke1023整合的固件版本上做了精简和优化
+
+主要特点如下：
 1.采用padavanonly源码的5.0.4.0无线驱动，支持kvr  
 2.添加了chongshengB源码的所有插件  
-3.其他部分等同于hanwckf的源码，有少量优化来自immortalwrt的padavan源码  
-4.添加了MSG1500的7615版本config  
+3.其他部分等同于hanwckf的源码，有少量优化来自immortalwrt的padavan源码
   
-以下附上他们四位的源码地址供参考  
+相关源码地址供参考
+https://github.com/keke1023/Padavan
 https://github.com/hanwckf/rt-n56u  
 https://github.com/chongshengB/rt-n56u  
 https://github.com/padavanonly/rt-n56u  
@@ -52,6 +49,7 @@ https://github.com/immortalwrt/padavan
 # 编译说明
 推荐使用云编译脚本进行固件编译  
 https://github.com/pmkol/Padavan-build
+
 ***
 
 ### 请参阅 ###
