@@ -1689,13 +1689,13 @@ setTimeout('document.getElementById("btn_ctime").style.display="none";',1000);
 																</option>
 																<option value="45.11.45.11#53">DNS.SB (45.11.45.11)
 																</option>
-																<option value="80.80.80.80#53">Freenom World DNS (80.80.80.80)
+																<option value="80.80.80.80#53">Freenom DNS (80.80.80.80)
 																</option>
-																<option value="80.80.81.81#53">Freenom World DNS (80.80.81.81)
+																<option value="80.80.81.81#53">Freenom DNS (80.80.81.81)
 																</option>
-																<option value="209.244.0.3#53">Level 3 Public DNS (209.244.0.3)
+																<option value="209.244.0.3#53">Level 3 DNS (209.244.0.3)
 																</option>
-																<option value="209.244.0.4#53">Level 3 Public DNS (209.244.0.4)
+																<option value="209.244.0.4#53">Level 3 DNS (209.244.0.4)
 																</option>
 																<option value="1.1.1.1#53">Cloudflare DNS (1.1.1.1)
 																</option>
