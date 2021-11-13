@@ -1,5 +1,5 @@
 # Padavan-Newifi3精简版固件
-固件基于Padavan源码精简，适合不爱折腾固件的NEWIFI3路由器用户
+固件基于Padavan源代码精简，适合不爱折腾固件的NEWIFI3路由器用户
 
 默认wifi名称PDCN及PDCN_5G  
 wifi密码1234567890  
@@ -30,7 +30,7 @@ https://www.lanzouw.com/i6pguwe3eud
 
 ***
 
-### Padavan ###
+### 源代码 ###
 在keke1023整合的固件版本上做了精简和优化
 
 主要特点如下：  
@@ -38,7 +38,7 @@ https://www.lanzouw.com/i6pguwe3eud
 2.添加了chongshengB源码的所有插件  
 3.其他部分等同于hanwckf的源码，有少量优化来自immortalwrt的padavan源码
   
-相关源码地址供参考  
+相关源码供参考：  
 https://github.com/keke1023/Padavan  
 https://github.com/hanwckf/rt-n56u  
 https://github.com/chongshengB/rt-n56u  
@@ -47,7 +47,7 @@ https://github.com/immortalwrt/padavan
 
 ***
 
-### 编译说明 ###
+### 云编译 ###
 推荐使用云编译脚本进行固件编译  
 https://github.com/pmkol/Padavan-build
 
@@ -55,4 +55,3 @@ https://github.com/pmkol/Padavan-build
 
 ### 请参阅 ###
 - https://www.jianshu.com/p/c31b58728778
-- https://www.jianshu.com/p/6b8403cdea46
