@@ -31,16 +31,15 @@ https://www.lanzouw.com/i6pguwe3eud
 ***
 
 ### Padavan ###
-在原作者keke1023整合的固件版本上做了精简和优化
+在keke1023整合的固件版本上做了精简和优化
 
-主要特点如下：
-1.采用padavanonly源码的5.0.4.0无线驱动，支持kvr  
+主要特点如下：  
 1.采用padavanonly源码的5.0.4.0无线驱动，支持kvr  
 2.添加了chongshengB源码的所有插件  
 3.其他部分等同于hanwckf的源码，有少量优化来自immortalwrt的padavan源码
   
-相关源码地址供参考
-https://github.com/keke1023/Padavan
+相关源码地址供参考  
+https://github.com/keke1023/Padavan  
 https://github.com/hanwckf/rt-n56u  
 https://github.com/chongshengB/rt-n56u  
 https://github.com/padavanonly/rt-n56u  
