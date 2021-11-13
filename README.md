@@ -49,7 +49,7 @@ https://github.com/immortalwrt/padavan
 
 ### 固件编译 ###
 推荐使用云编译脚本进行固件编译  
-https://github.com/pmkol/Padavan-build
+https://github.com/pmkol/Padavan-build-Newifi3
 
 ***
 
