@@ -1693,15 +1693,15 @@ setTimeout('document.getElementById("btn_ctime").style.display="none";',1000);
 																</option>
 																<option value="80.80.81.81#53">Freenom World DNS (80.80.81.81)
 																</option>
-																<option value="4.2.2.1#53">Level 3 Public DNS (4.2.2.1)
+																<option value="209.244.0.3#53">Level 3 Public DNS (209.244.0.3)
+																</option>
+																<option value="209.244.0.4#53">Level 3 Public DNS (209.244.0.4)
 																</option>
 																<option value="1.1.1.1#53">Cloudflare DNS (1.1.1.1)
 																</option>
 																<option value="1.0.0.1#53">Cloudflare DNS (1.0.0.1)
 																</option>
 																<option value="101.6.6.6#5353">TUNA DNS (101.6.6.6)
-																</option>
-																<option value="119.29.29.29#53">Oversea Mode DNS (119.29.29.29)
 																</option>
 																<option value="127.0.0.1#6053">SmartDNS (Port:6053)
 																</option>
