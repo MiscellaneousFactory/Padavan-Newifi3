@@ -7,9 +7,6 @@ wifi密码1234567890
 管理账号admin
 管理密码admin 
 
-固件下载  
-https://www.lanzouw.com/i6pguwe3eud
-
 ***
 
 - 20211111更新
